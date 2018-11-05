@@ -24,9 +24,9 @@
     YYPHomeController *homeVC = [[YYPHomeController alloc] init];
     YYPOtherController *otherVC = [[YYPOtherController alloc] init];
     YYPMineController *mine = [[YYPMineController alloc] init];
-    [self addChildVc:homeVC title:@"首页" image:@"" selectedImage:@""];
-    [self addChildVc:otherVC title:@"其他" image:@"" selectedImage:@""];
-    [self addChildVc:mine title:@"我的" image:@"" selectedImage:@""];
+    [self addChildVc:homeVC title:@"首页" image:@"tabBar_home" selectedImage:@"tabBar_home_click"];
+    [self addChildVc:otherVC title:@"其他" image:@"tabBar_found" selectedImage:@"tabBar_found_click"];
+    [self addChildVc:mine title:@"我的" image:@"tabBar_mine" selectedImage:@"tabBar_mine_click"];
 
     // Do any additional setup after loading the view.
 }
@@ -42,13 +42,14 @@
     NSMutableDictionary *selectTextAttrs = [NSMutableDictionary dictionary];
     selectTextAttrs[NSForegroundColorAttributeName] = [UIColor whiteColor];
     selectTextAttrs[NSFontAttributeName] = [UIFont systemFontOfSize:20 * singleLength];
-    
+
     [childVc.tabBarItem setTitleTextAttributes:textAttrs forState:UIControlStateNormal];
     [childVc.tabBarItem setTitleTextAttributes:selectTextAttrs forState:UIControlStateSelected];
-    //    UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:childVc];
+    UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:childVc];
     
-    [self addChildViewController:childVc];
-}/*
+    [self addChildViewController:nav];
+}
+/*
 #pragma mark - Navigation
 
 // In a storyboard-based application, you will often want to do a little preparation before navigation

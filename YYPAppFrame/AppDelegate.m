@@ -21,8 +21,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     self.window.backgroundColor = [UIColor whiteColor];
     YYPTabarController *tabarVC = [[YYPTabarController alloc] init];
-    UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:tabarVC];
-    self.window.rootViewController = nav;
+    self.window.rootViewController = tabarVC;
     [self.window makeKeyAndVisible];
     return YES;
 }

@@ -61,6 +61,26 @@
 		A6807B8B218F294200C14ED9 /* YYPHomdeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B89218F294200C14ED9 /* YYPHomdeModel.m */; };
 		A6807B8C218F294200C14ED9 /* YYPHomdeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B89218F294200C14ED9 /* YYPHomdeModel.m */; };
 		A6807B8D218F294200C14ED9 /* YYPHomdeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B89218F294200C14ED9 /* YYPHomdeModel.m */; };
+		A6807B952190754800C14ED9 /* getOnNetManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B912190754800C14ED9 /* getOnNetManager.m */; };
+		A6807B962190754800C14ED9 /* getOnNetManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B912190754800C14ED9 /* getOnNetManager.m */; };
+		A6807B972190754800C14ED9 /* getOnNetManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B912190754800C14ED9 /* getOnNetManager.m */; };
+		A6807B982190754800C14ED9 /* getOnNetManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B912190754800C14ED9 /* getOnNetManager.m */; };
+		A6807B992190754800C14ED9 /* getOnNetUrlBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B932190754800C14ED9 /* getOnNetUrlBuilder.m */; };
+		A6807B9A2190754800C14ED9 /* getOnNetUrlBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B932190754800C14ED9 /* getOnNetUrlBuilder.m */; };
+		A6807B9B2190754800C14ED9 /* getOnNetUrlBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B932190754800C14ED9 /* getOnNetUrlBuilder.m */; };
+		A6807B9C2190754800C14ED9 /* getOnNetUrlBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B932190754800C14ED9 /* getOnNetUrlBuilder.m */; };
+		A6807BA4219075D100C14ED9 /* getOnCommonTools.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B9F219075D100C14ED9 /* getOnCommonTools.m */; };
+		A6807BA5219075D100C14ED9 /* getOnCommonTools.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B9F219075D100C14ED9 /* getOnCommonTools.m */; };
+		A6807BA6219075D100C14ED9 /* getOnCommonTools.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B9F219075D100C14ED9 /* getOnCommonTools.m */; };
+		A6807BA7219075D100C14ED9 /* getOnCommonTools.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807B9F219075D100C14ED9 /* getOnCommonTools.m */; };
+		A6807BA8219075D100C14ED9 /* UIView+Cate.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807BA2219075D100C14ED9 /* UIView+Cate.m */; };
+		A6807BA9219075D100C14ED9 /* UIView+Cate.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807BA2219075D100C14ED9 /* UIView+Cate.m */; };
+		A6807BAA219075D100C14ED9 /* UIView+Cate.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807BA2219075D100C14ED9 /* UIView+Cate.m */; };
+		A6807BAB219075D100C14ED9 /* UIView+Cate.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807BA2219075D100C14ED9 /* UIView+Cate.m */; };
+		A6807BAC219075D100C14ED9 /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807BA3219075D100C14ED9 /* UIView+Toast.m */; };
+		A6807BAD219075D100C14ED9 /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807BA3219075D100C14ED9 /* UIView+Toast.m */; };
+		A6807BAE219075D100C14ED9 /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807BA3219075D100C14ED9 /* UIView+Toast.m */; };
+		A6807BAF219075D100C14ED9 /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = A6807BA3219075D100C14ED9 /* UIView+Toast.m */; };
 		AE95BB0B4B41B2B3EDC3ABE4 /* libPods-YYPAppFrame.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F009D5C575EB017688FC6ABC /* libPods-YYPAppFrame.a */; };
 		D6B9F58135695AA87E927006 /* libPods-YYPAppFrameUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F1A808CF88281E8873AC8B7 /* libPods-YYPAppFrameUITests.a */; };
 /* End PBXBuildFile section */
@@ -143,6 +163,16 @@
 		A6807B88218F294200C14ED9 /* YYPHomdeModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YYPHomdeModel.h; sourceTree = "<group>"; };
 		A6807B89218F294200C14ED9 /* YYPHomdeModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YYPHomdeModel.m; sourceTree = "<group>"; };
 		A6807B8F218F2AD900C14ED9 /* YYPrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YYPrefixHeader.pch; sourceTree = "<group>"; };
+		A6807B912190754800C14ED9 /* getOnNetManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = getOnNetManager.m; sourceTree = "<group>"; };
+		A6807B922190754800C14ED9 /* getOnNetUrlBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = getOnNetUrlBuilder.h; sourceTree = "<group>"; };
+		A6807B932190754800C14ED9 /* getOnNetUrlBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = getOnNetUrlBuilder.m; sourceTree = "<group>"; };
+		A6807B942190754800C14ED9 /* getOnNetManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = getOnNetManager.h; sourceTree = "<group>"; };
+		A6807B9E219075D100C14ED9 /* UIView+Cate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Cate.h"; sourceTree = "<group>"; };
+		A6807B9F219075D100C14ED9 /* getOnCommonTools.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = getOnCommonTools.m; sourceTree = "<group>"; };
+		A6807BA0219075D100C14ED9 /* UIView+Toast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Toast.h"; sourceTree = "<group>"; };
+		A6807BA1219075D100C14ED9 /* getOnCommonTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = getOnCommonTools.h; sourceTree = "<group>"; };
+		A6807BA2219075D100C14ED9 /* UIView+Cate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Cate.m"; sourceTree = "<group>"; };
+		A6807BA3219075D100C14ED9 /* UIView+Toast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Toast.m"; sourceTree = "<group>"; };
 		D6BDFF5C8BF57D5DE4364C73 /* Pods-YYPAppFrameUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YYPAppFrameUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YYPAppFrameUITests/Pods-YYPAppFrameUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		F009D5C575EB017688FC6ABC /* libPods-YYPAppFrame.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YYPAppFrame.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -231,6 +261,8 @@
 		A6807A9D218F1E6F00C14ED9 /* YYPAppFrame */ = {
 			isa = PBXGroup;
 			children = (
+				A6807B9D219075D100C14ED9 /* getOnTools */,
+				A6807B902190754800C14ED9 /* netWork */,
 				A6807B8E218F2AC600C14ED9 /* support */,
 				A6807B48218F276700C14ED9 /* YYPMine */,
 				A6807B47218F275500C14ED9 /* YYPOther */,
@@ -419,6 +451,30 @@
 				A6807B8F218F2AD900C14ED9 /* YYPrefixHeader.pch */,
 			);
 			path = support;
+			sourceTree = "<group>";
+		};
+		A6807B902190754800C14ED9 /* netWork */ = {
+			isa = PBXGroup;
+			children = (
+				A6807B922190754800C14ED9 /* getOnNetUrlBuilder.h */,
+				A6807B932190754800C14ED9 /* getOnNetUrlBuilder.m */,
+				A6807B942190754800C14ED9 /* getOnNetManager.h */,
+				A6807B912190754800C14ED9 /* getOnNetManager.m */,
+			);
+			path = netWork;
+			sourceTree = "<group>";
+		};
+		A6807B9D219075D100C14ED9 /* getOnTools */ = {
+			isa = PBXGroup;
+			children = (
+				A6807B9E219075D100C14ED9 /* UIView+Cate.h */,
+				A6807B9F219075D100C14ED9 /* getOnCommonTools.m */,
+				A6807BA0219075D100C14ED9 /* UIView+Toast.h */,
+				A6807BA1219075D100C14ED9 /* getOnCommonTools.h */,
+				A6807BA2219075D100C14ED9 /* UIView+Cate.m */,
+				A6807BA3219075D100C14ED9 /* UIView+Toast.m */,
+			);
+			path = getOnTools;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -659,18 +715,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6807BA4219075D100C14ED9 /* getOnCommonTools.m in Sources */,
 				A6807B3E218F263D00C14ED9 /* YYPTabarController.m in Sources */,
 				A6807AA3218F1E6F00C14ED9 /* ViewController.m in Sources */,
 				A6807B66218F284F00C14ED9 /* YYPMineModel.m in Sources */,
 				A6807B78218F28A200C14ED9 /* YYPOtherModel.m in Sources */,
 				A6807AAE218F1E7000C14ED9 /* main.m in Sources */,
 				A6807AA0218F1E6F00C14ED9 /* AppDelegate.m in Sources */,
+				A6807BAC219075D100C14ED9 /* UIView+Toast.m in Sources */,
 				A6807B3B218F261500C14ED9 /* YYPBaseController.m in Sources */,
 				A6807B60218F282100C14ED9 /* YYPMineController.m in Sources */,
 				A6807B84218F292C00C14ED9 /* YYPHomeView.m in Sources */,
 				A6807B7E218F291200C14ED9 /* YYPOtherView.m in Sources */,
 				A6807B8A218F294200C14ED9 /* YYPHomdeModel.m in Sources */,
+				A6807B952190754800C14ED9 /* getOnNetManager.m in Sources */,
 				A6807B54218F280000C14ED9 /* YYPHomeController.m in Sources */,
+				A6807B992190754800C14ED9 /* getOnNetUrlBuilder.m in Sources */,
+				A6807BA8219075D100C14ED9 /* UIView+Cate.m in Sources */,
 				A6807B6C218F286A00C14ED9 /* YYPMineView.m in Sources */,
 				A6807B5A218F281000C14ED9 /* YYPOtherController.m in Sources */,
 			);
@@ -684,8 +745,13 @@
 				A6807B61218F282100C14ED9 /* YYPMineController.m in Sources */,
 				A6807B79218F28A200C14ED9 /* YYPOtherModel.m in Sources */,
 				A6807B55218F280000C14ED9 /* YYPHomeController.m in Sources */,
+				A6807B962190754800C14ED9 /* getOnNetManager.m in Sources */,
 				A6807B41218F268200C14ED9 /* YYPBaseController.m in Sources */,
+				A6807BA5219075D100C14ED9 /* getOnCommonTools.m in Sources */,
 				A6807B85218F292C00C14ED9 /* YYPHomeView.m in Sources */,
+				A6807BAD219075D100C14ED9 /* UIView+Toast.m in Sources */,
+				A6807B9A2190754800C14ED9 /* getOnNetUrlBuilder.m in Sources */,
+				A6807BA9219075D100C14ED9 /* UIView+Cate.m in Sources */,
 				A6807B8B218F294200C14ED9 /* YYPHomdeModel.m in Sources */,
 				A6807B67218F284F00C14ED9 /* YYPMineModel.m in Sources */,
 				A6807B7F218F291200C14ED9 /* YYPOtherView.m in Sources */,
@@ -703,8 +769,13 @@
 				A6807B62218F282100C14ED9 /* YYPMineController.m in Sources */,
 				A6807B7A218F28A200C14ED9 /* YYPOtherModel.m in Sources */,
 				A6807B56218F280000C14ED9 /* YYPHomeController.m in Sources */,
+				A6807B972190754800C14ED9 /* getOnNetManager.m in Sources */,
 				A6807B40218F268100C14ED9 /* YYPBaseController.m in Sources */,
+				A6807BA6219075D100C14ED9 /* getOnCommonTools.m in Sources */,
 				A6807B86218F292C00C14ED9 /* YYPHomeView.m in Sources */,
+				A6807BAE219075D100C14ED9 /* UIView+Toast.m in Sources */,
+				A6807B9B2190754800C14ED9 /* getOnNetUrlBuilder.m in Sources */,
+				A6807BAA219075D100C14ED9 /* UIView+Cate.m in Sources */,
 				A6807B8C218F294200C14ED9 /* YYPHomdeModel.m in Sources */,
 				A6807B68218F284F00C14ED9 /* YYPMineModel.m in Sources */,
 				A6807B80218F291200C14ED9 /* YYPOtherView.m in Sources */,
@@ -722,8 +793,13 @@
 				A6807B63218F282100C14ED9 /* YYPMineController.m in Sources */,
 				A6807B7B218F28A200C14ED9 /* YYPOtherModel.m in Sources */,
 				A6807B57218F280000C14ED9 /* YYPHomeController.m in Sources */,
+				A6807B982190754800C14ED9 /* getOnNetManager.m in Sources */,
 				A6807B3F218F268000C14ED9 /* YYPBaseController.m in Sources */,
+				A6807BA7219075D100C14ED9 /* getOnCommonTools.m in Sources */,
 				A6807B87218F292C00C14ED9 /* YYPHomeView.m in Sources */,
+				A6807BAF219075D100C14ED9 /* UIView+Toast.m in Sources */,
+				A6807B9C2190754800C14ED9 /* getOnNetUrlBuilder.m in Sources */,
+				A6807BAB219075D100C14ED9 /* UIView+Cate.m in Sources */,
 				A6807B8D218F294200C14ED9 /* YYPHomdeModel.m in Sources */,
 				A6807B69218F284F00C14ED9 /* YYPMineModel.m in Sources */,
 				A6807B81218F291200C14ED9 /* YYPOtherView.m in Sources */,
